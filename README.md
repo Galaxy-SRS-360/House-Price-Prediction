@@ -1,1 +1,2 @@
 # House-Price-Prediction
+### If you are a buyer or seller of a house and you lack knowledge about the exact price of the property, you can leverage a predictive model to estimate the price of the house by inputting various features of the target property. This model utilizes the provided information to make a reasonable prediction of the house's market value, assisting you in making informed decisions regarding your real estate transactions.
